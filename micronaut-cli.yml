@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: embedded.server.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, hamcrest, http-client, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mockito, netty-server, reactor, reactor-http-client, readme, serialization-jackson, shade, yaml, yaml-build]
